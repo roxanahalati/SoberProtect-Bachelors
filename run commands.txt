@@ -1,0 +1,3 @@
+server folder: cmd -> npm start
+frontend folder: cmd -> npx react-native start
+                 cmd -> npx react-native run-android
